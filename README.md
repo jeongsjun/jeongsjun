@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm JeongSjun</h1>
+<h1 align="center">Hi 👋, I'm Seungjun Jeong</h1>
 <p align="center">💡 Passionate about AI, Data Analysis, and Web Development</p>
 
 ---
