@@ -38,10 +38,8 @@
 ---
 
 ### 🔗 Connect With Me
-
+- 📧 **Email:** [seungjunjeong9459@gmail.com](mailto:seungjunjeong9459@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&style=flat)](https://velog.io/@jeongsjun)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/jeongsjun)  
-*(각 링크는 실제 사용하는 계정 주소로 바꿔주세요!)*
 
 ---
 
