@@ -1,36 +1,11 @@
-
-<!--
-
-## Hi there 👋
-**jeongsjun/jeongsjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Seungjun Jeong</h1>
-<p align="center">💡 Passionate about AI, Data Analysis, and Web Development</p>
+<p align="center">💡 꾸준한 성장과 협력의 가치를 중요하게 생각하는 신입 개발자 정승준입니다.</p>
 
 ---
 
 ### 🧑‍💻 About Me
-
-- 🎓 I'm studying/developing **AI and Data Analysis-based Web Systems**
-- 🧠 I'm currently focused on:
-  - Django 기반 **논문 기반 IT 연구동향 분석 시스템**
-  - Java 콘솔 기반 **쇼핑몰 프로그램**
-- 🌱 I’m learning **React, GPT API 활용, and Data Visualization**
-- ✍️ I write tech blogs on [Velog](https://velog.io/@jeongsjun) *(링크 있다면 넣어주세요!)*
-- 📫 How to reach me: **jeongsjun@email.com** *(이메일도 바꿔주셔야 해요)*
-
+- 🎓 소프트웨어학과 졸업
+- 🌱 폴리텍 스마트금융과 8기 수료중
 ---
 
 ### 💻 Tech Stack
@@ -44,7 +19,17 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
+## 🏆 Awards  
+- **2024.12.** 캡스톤 경진대회 **우수상** (AcademicLens) 🏅  
 
+---
+
+## 📜 Certifications  
+- **2023.07.** SQLD (SQL 개발자 자격증)  
+- **2024.06.** 정보처리기사  
+- **2024.11.** ADsP (데이터 분석 준전문가)  
+
+---
 ### 📊 GitHub Stats
 
 ![jeongsjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsjun&show_icons=true&theme=tokyonight)
