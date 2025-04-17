@@ -39,7 +39,7 @@
 
 ### 🔗 Connect With Me
 - 📧 **Email:** [seungjunjeong9459@gmail.com](mailto:seungjunjeong9459@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&style=flat)](https://velog.io/@jeongsjun)
+- [![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&style=flat)](https://velog.io/@jeongsjun)
 
 ---
 
