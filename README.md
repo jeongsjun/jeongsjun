@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 소프트웨어학과 졸업
-- 🌱 폴리텍 스마트금융과 8기 수료중
+- 🌱 폴리텍 스마트금융과 8기 이수 중
 ---
 
 ### 💻 Tech Stack
@@ -39,7 +39,7 @@
 
 ### 🔗 Connect With Me
 - 📧 **Email:** [seungjunjeong9459@gmail.com](mailto:seungjunjeong9459@gmail.com)
-- [![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&style=flat)](https://velog.io/@jeongsjun)
+- [![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&style=flat)](https://velog.io/@tmdwns7429)
 
 ---
 
